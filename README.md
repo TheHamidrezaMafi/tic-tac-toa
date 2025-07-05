@@ -4,7 +4,6 @@
 A scalable implementation of Tic-Tac-Toe featuring client-server architecture, customizable grid sizes, and real-time multiplayer gameplay using socket programming with multithreading and handling deadlocks.
 
 ![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
-![Tkinter](https://img.shields.io/badge/tkinter-included-blue.svg)
 ![Socket](https://img.shields.io/badge/socket-programming-blue.svg)
 
 ## ✨ Features
